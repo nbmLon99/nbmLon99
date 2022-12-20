@@ -2,40 +2,40 @@
 
 
 <h3>
- 소개말 작성</br></br>
+ 김진우입니다.
+ </br></br>
 
 </h3>
 </br>
+</br></br>
+부경대학교 3학년 재학중
 </br>
 
+
+### Contact
 <p align="left">📫 e-mail : nbmLon99@naver.com </p></br>
 
 <p align="left"><a href="링크"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
+</br></br>
 
 
 
- 
+<h2> Project (Android) </h2>
 </br>
-<h3>📱 App (Android) </h3>
-부경대학교 3학년 재학중
-</br>
-</br>
- <h4>✨ 기회의신카이로스는뒷머리가없어_할일관리앱</h4> 
- <a href="링크"><img src="http://img.shields.io/badge/kairos_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
+
+ <a href="링크"><img src="http://img.shields.io/badge/기회의신카이로스는뒷머리가없어_할일관리앱-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></br>
 "앱 설명. 
+</br></br></br>
 
 
-  <h4>✨ 부산을 알려줭</h4> 
-<a href="링크"><img src="http://img.shields.io/badge/mobile_programming_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
- </br>
+<a href="링크"><img src="http://img.shields.io/badge/부산을 알려줭-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> </br>
 앱 설명 - 모바일 프로그래밍 텀 프로젝트
-</br>
+</br></br></br>
 
- <h4>✨ #우정하자</h4> 
-<a href="링크"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+<a href="링크"><img src="http://img.shields.io/badge/우정하자-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  </br>
 앱 설명
