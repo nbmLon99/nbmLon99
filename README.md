@@ -20,20 +20,21 @@
 부경대학교 3학년 재학중
 </br>
 </br>
- <h4> 기회의신카이로스는뒷머리가없어_할일관리앱</h4> 
+ <h4>✨ 기회의신카이로스는뒷머리가없어_할일관리앱</h4> 
  <a href="링크"><img src="http://img.shields.io/badge/kairos_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  </br>
 "앱 설명. 
 
 
-  <h4> 부산을 알려줭</h4> 
+  <h4>✨ 부산을 알려줭</h4> 
 <a href="링크"><img src="http://img.shields.io/badge/mobile_programming_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+ </br>
 앱 설명 - 모바일 프로그래밍 텀 프로젝트
 </br>
 
- <h4> #우정하자</h4> 
+ <h4>✨ #우정하자</h4> 
 <a href="링크"><img src="http://img.shields.io/badge/Campair_github-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
  </br>
