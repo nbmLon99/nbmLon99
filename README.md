@@ -1,16 +1,5 @@
-### Hi there 👋
-
-
-<h3>
- 김진우입니다.
-</h3></br></br>
-
-
-<h2> Contact </h2>
+### 김진우 입니다.
 <p align="left">📫 e-mail : nbmLon99@naver.com </p></br>
-
-<p align="left"><a href="링크"><img src="http://img.shields.io/badge/💻 Blog-655ced?style=for-the-badge&color=5FC397" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a></p>
-</br></br>
 
 
 
@@ -35,6 +24,12 @@
  <img src="http://img.shields.io/badge/우정하자-Android(Kotlin)-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></br>
 모두가 참여하는 정산, 우리 정산하자 - 더치페이앱
+</br></br></br>
+
+<H6> [웹 프로그래밍 팀 프로젝트 - 햇빛싫어] </H6> 
+<a href="https://github.com/Munbin-Lee/ShadeSeeker"><img src="http://img.shields.io/badge/햇빛싫어-Web(JavaScript)-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a></br>
+'전국무더위쉼터표준데이터' 공공데이터를 활용한 무더위 쉼터 안내 웹
 </br></br></br></br></br>
 
 
@@ -45,6 +40,7 @@
 ㅁ 부울경 화이트해커 양성사업 최종발표회 우수상</br>
 ㅁ (교내대회) 2022년 부경대학교 정보융합대학 프로그래밍 경진대회 최우수상</br>
 
+ㅁ 정보보안산업기사
 
 
 
