@@ -1,4 +1,9 @@
 ### 김진우 입니다.
+
+<p align="center">
+ 김 진 우 <br>
+ nb mL on<br>
+</p>
 <br>
 <p align="left">
 <a> 📫 E-MAIL&nbsp: &nbsp&nbspnbmLon99@naver.com </a><br>
