@@ -1,5 +1,10 @@
 ### 김진우 입니다.
-<p align="left">📫 e-mail : nbmLon99@naver.com </p></br>
+<br>
+<p align="left">
+<a> 📫 E-MAIL&nbsp: &nbsp&nbspnbmLon99@naver.com </a><br>
+<a> 📫 BLOG&nbsp&nbsp&nbsp&nbsp: <a href="https://nbmlon99.tistory.com">&nbsp&nbspnb ml on</a></a>
+</p>
+</br>
 
 
 
@@ -38,7 +43,7 @@
 ㅁ 안드로이드 App으로 제어하는 Iot 활용교육 수료 </br>
 ㅁ Python 프로그래밍 기반 기초 빅데이터 과정(동계) 수료 </br></br>
 ㅁ 부울경 화이트해커 양성사업 최종발표회 우수상</br>
-ㅁ (교내대회) 2022년 부경대학교 정보융합대학 프로그래밍 경진대회 최우수상</br>
+ㅁ (교내대회) 2022년 부경대학교 정보융합대학 프로그래밍 경진대회 최우수상</br></br>
 
 ㅁ 정보보안산업기사
 
