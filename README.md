@@ -2,8 +2,8 @@
 
 <H2 align="center"><br><br><br>
  김 진 우 <br> 
- nb mL on<br><br>
- <div align=right> 
+ nb mL on<br><br><br> <br> 
+ <div align=center> 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
   <br>
 
