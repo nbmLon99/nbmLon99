@@ -1,18 +1,18 @@
 <H2 align="center"><br><br><br>
  김 진 우 <br> 
  nb mL on<br><br><br><br>
+ <p align="left">Contact</p>
 </H2>
-<br><br>
+
 <p align="left">
 <a> 📫 E-MAIL&nbsp: &nbsp&nbsprhfwleowkd77@naver.com </a><br>
 <a> 📫 BLOG&nbsp&nbsp&nbsp&nbsp: <a href="https://nbmlon99.tistory.com">&nbsp&nbspnb ml on</a></a>
 </p>
 </br>
 
-
+<br><br><br><br>
 
 <h2> Project </h2>
-</br>
 
 <H6> [개인 프로젝트] </H6> 
  <a href="https://github.com/nbmLon99/kairos_todo"><img src="http://img.shields.io/badge/기회의신카이로스는뒷머리가없어_할일관리앱-Android(JAVA)-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -46,8 +46,8 @@
  <img src="http://img.shields.io/badge/버섯모야-Android(Kotlin)-655ced?style=social&logo=github&color=informational" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a></br>
 버섯 구분 서비스 - 버섯모야
-</br></br></br></br></br></br>
-
+</br></br></br>
+</br></br></br><br>
 
 
 <h2> 자격 및 수료 </h2>
