@@ -1,7 +1,7 @@
-<H2 align="center"><br><br><br>
+<H1 align="center"><br><br><br>
  김 진 우 <br>
  nb mL on<br><br><br><br>
-</H2>
+</H1>
 <br><br>
 <p align="left">
 <a> 📫 E-MAIL&nbsp: &nbsp&nbsprhfwleowkd77@naver.com </a><br>
